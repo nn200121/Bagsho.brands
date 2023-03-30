@@ -1,0 +1,14 @@
+body {
+    background-color:#FFF5E4;
+}
+h1,h3 {color:#f891cd}
+
+hr {
+    color:#f891cd;
+    border-top-style:inset;
+    
+
+    width: 100%;
+    border-color:#f891cd
+}
+Table {font-size: 20px;}
